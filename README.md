@@ -1,3 +1,3 @@
-# Rust Book Exercises 
+# rust book exercises
 
-This repo contains the exercises I am working on while going through the [Rust Book](https://doc.rust-lang.org/book/).
+this repo contains the exercises i am working on while going through the [rust book](https://doc.rust-lang.org/book/).
